@@ -1,0 +1,19 @@
+#fish{
+    width: 300px;
+}
+
+#fish-audio{
+    width: 400px;
+}
+img {
+    max-width: 400px;
+    display: block;
+    margin:1rem;
+    border: 0.2rem dotted brown;
+}
+
+#class{
+    width:50rem;
+    height: 50rem;
+    object-fit: cover;
+}
