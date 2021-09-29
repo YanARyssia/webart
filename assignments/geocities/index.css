@@ -11,6 +11,7 @@
 
 
 
+
 body {
     background-image: url("images/underwater.jpg");
     background-size: cover;
@@ -29,13 +30,13 @@ body {
 
  #mermaid1 {
     position: absolute;
-    left: 2em;
+    left: 15em;
     top: 50em;
  }
 
  #mermaid2 {
     position: fixed;
-   left: 5em;
+   left: 6em;
    top: 12em;
 }
 
@@ -48,7 +49,7 @@ body {
 #mermaid4 {
     position: absolute;
    left: 15em;
-   top: 9em;
+   top: 12em;
 }
 
 #mermaid5 {
@@ -66,7 +67,7 @@ body {
 #mermaid7 {
     position: absolute;
    left: 27em;
-   top: 20em;
+   top: 25em;
 }
 
 #mermaid8 {
@@ -84,42 +85,42 @@ body {
 #mermaid10 {
     position: absolute;
    left: 44em;
-   top: 22em;
+   top: 25em;
 }
 
 #mermaid11 {
     position: absolute;
    left: 47em;
-   top: 8em;
+   top:13em;
 }
 
 #mermaid12 {
     position: fixed;
-   left: 49em;
-   top: 15em;
+   left: 53em;
+   top: 19em;
 }
 
 #mermaid13 {
     position: absolute;
-   left: 58em;
-   top: 15em;
+   left: 59em;
+   top: 12em;
 }
 
 #mermaid14 {
     position: absolute;
-   left: 57em;
-   top: 60em;
+   left: 66em;
+   top: 69em;
 }
 
 #mermaid15 {
     position: absolute;
-   right: 20em;
+    left: 71em;
    top: 13em;
 }
 
 #mermaid16 {
     position: absolute;
-   right: 10em;
+    left: 80em;
    top: 10em;
 }
 
@@ -128,4 +129,16 @@ body {
     position: absolute;
    right: 5em;
    top: 55em;
+}
+
+
+p{
+    position:fixed;
+    top: 0.1em;
+    right: 0.4em;
+    font-family: urw-form, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 0.7em;
+
 }
