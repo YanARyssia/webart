@@ -1,0 +1,131 @@
+@font-face {
+    font-family: infiti-regular;
+    src: url(fonts/infini-regular.otf);
+}
+@font-face {
+    font-family: infiti-bold;
+    src: url(fonts/infini-bold.otf);
+}
+
+
+
+
+
+body {
+    background-image: url("images/underwater.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 0.5rem;
+   }
+
+   h1{ 
+       text-align: center;
+       color:rgb(102, 204, 204);
+       text-shadow: 3px 3px #082842;
+       font-family: infiti-bold;
+       font-size: clamp(2rem, 4vw, 4rem);
+   }
+
+ #mermaid1 {
+    position: absolute;
+    left: 2em;
+    top: 50em;
+ }
+
+ #mermaid2 {
+    position: fixed;
+   left: 5em;
+   top: 12em;
+}
+
+#mermaid3 {
+    position: absolute;
+   left: 12em;
+   top: 5em;
+}
+
+#mermaid4 {
+    position: absolute;
+   left: 15em;
+   top: 9em;
+}
+
+#mermaid5 {
+    position: absolute;
+   left: 10em;
+   top: 25em;
+}
+
+#mermaid6 {
+    position: absolute;
+   left: 24em;
+   top: 8em;
+}
+
+#mermaid7 {
+    position: absolute;
+   left: 27em;
+   top: 20em;
+}
+
+#mermaid8 {
+    position: absolute;
+   left: 33em;
+   top: 10em;
+}
+
+#mermaid9 {
+    position: absolute;
+   left: 39em;
+   top: 16em;
+}
+
+#mermaid10 {
+    position: absolute;
+   left: 44em;
+   top: 22em;
+}
+
+#mermaid11 {
+    position: absolute;
+   left: 47em;
+   top: 8em;
+}
+
+#mermaid12 {
+    position: fixed;
+   left: 49em;
+   top: 15em;
+}
+
+#mermaid13 {
+    position: absolute;
+   left: 58em;
+   top: 15em;
+}
+
+#mermaid14 {
+    position: absolute;
+   left: 57em;
+   top: 60em;
+}
+
+#mermaid15 {
+    position: absolute;
+   right: 20em;
+   top: 13em;
+}
+
+#mermaid16 {
+    position: absolute;
+   right: 10em;
+   top: 10em;
+}
+
+
+#mermaid17 {
+    position: absolute;
+   right: 5em;
+   top: 55em;
+}
